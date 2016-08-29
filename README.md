@@ -436,7 +436,6 @@
 * <del>Mac精品软件：http://xclient.info/</del>
 * <del>Macx：http://www.macx.cn/</del>
 
-**[⬆ 返回顶部](#目录)**
 
 
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
